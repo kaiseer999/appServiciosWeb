@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3dr0x/ZUF+ezjwWd5N7mhp+l9XNoVgJ2iV/dOL5Hz5g=",
+  "Source": "ProyectoBackendCsharp",
+  "BasePath": "_content/ProyectoBackendCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoBackendCsharp\\wwwroot",
+      "Source": "ProyectoBackendCsharp",
+      "ContentRoot": "C:\\Users\\crist\\Downloads\\proyectosVSCODE\\proyectosVSCODE\\ProyectoBackendCsharp\\wwwroot\\",
+      "BasePath": "_content/ProyectoBackendCsharp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
